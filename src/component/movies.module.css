@@ -1,0 +1,9 @@
+.buttons{
+    position: absolute;
+    top:20%;
+    right: 0;
+    width: 120px;
+    height: 30px;
+    transform: translateY(-50%);
+    background-color: rgb(122, 193, 137);
+  }
